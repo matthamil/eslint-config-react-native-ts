@@ -1,5 +1,11 @@
 # eslint-config-react-native-ts
 
+![npm](https://img.shields.io/npm/v/eslint-config-react-native-ts.svg?color=blue)
+![npm peer dependency eslint version](https://img.shields.io/npm/dependency-version/eslint-config-react-native-ts/peer/eslint.svg)
+![dependabot](https://img.shields.io/badge/Dependabot-Enabled-brightgreen.svg)
+![license](https://img.shields.io/npm/l/eslint-config-react-native-ts.svg)
+[![saythanksio](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/matthamil)
+
 An opinionated [ESLint](https://eslint.org/) config for [React Native](https://facebook.github.io/react-native/) projects using [TypeScript](https://www.typescriptlang.org/)
 
 Includes rules for:
