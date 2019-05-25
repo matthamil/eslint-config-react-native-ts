@@ -32,7 +32,7 @@ yarn add --dev @typescript-eslint/eslint-plugin \
 
 In your project's `.eslintrc.*` file, add the following:
 
-```json
+```js
 {
   "extends": ["react-native-ts"],
   "rules": {
