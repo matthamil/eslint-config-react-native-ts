@@ -12,7 +12,7 @@ Includes rules for:
 * [React Native](https://facebook.github.io/react-native/)
 * [React hooks](https://reactjs.org/docs/hooks-rules.html) 🎣
 * [TypeScript](https://www.typescriptlang.org/)
-* [a11y](https://github.com/FormidableLabs/eslint-plugin-react-native-a11y).
+* [a11y](https://github.com/FormidableLabs/eslint-plugin-react-native-a11y)
 
 ## Installation
 
