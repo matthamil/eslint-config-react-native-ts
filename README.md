@@ -1,10 +1,10 @@
 # eslint-config-react-native-ts
 
-An opinionated [ESLint](https://eslint.org/) config for React Native projects using [TypeScript](https://www.typescriptlang.org/)
+An opinionated [ESLint](https://eslint.org/) config for [React Native](https://facebook.github.io/react-native/) projects using [TypeScript](https://www.typescriptlang.org/)
 
 Includes rules for:
-* React Native
-* React [hooks](https://reactjs.org/docs/hooks-rules.html) 🎣
+* [React Native](https://facebook.github.io/react-native/)
+* [React hooks](https://reactjs.org/docs/hooks-rules.html) 🎣
 * [TypeScript](https://www.typescriptlang.org/)
 * [a11y](https://github.com/FormidableLabs/eslint-plugin-react-native-a11y).
 
@@ -43,4 +43,4 @@ In your project's `.eslintrc.*` file, add the following:
 
 ## License
 
-[MIT](LICENSE.md)
+eslint-config-react-native-ts is licensed under the [MIT License](LICENSE.md).
