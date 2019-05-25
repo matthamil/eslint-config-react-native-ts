@@ -2,7 +2,7 @@
 
 ![npm](https://img.shields.io/npm/v/eslint-config-react-native-ts.svg?color=blue)
 ![npm peer dependency eslint version](https://img.shields.io/npm/dependency-version/eslint-config-react-native-ts/peer/eslint.svg)
-![dependabot](https://img.shields.io/badge/Dependabot-Enabled-brightgreen.svg)
+![dependabot](https://img.shields.io/badge/dependabot-enabled-brightgreen.svg)
 ![license](https://img.shields.io/npm/l/eslint-config-react-native-ts.svg)
 [![saythanksio](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/matthamil)
 
